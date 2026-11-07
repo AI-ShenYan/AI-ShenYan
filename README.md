@@ -4,4 +4,4 @@
 
 ### Social
 
-[![](https://img.shields.io/badge/CSDN-G%E7%9A%AET-%23ff8936)](https://blog.csdn.net/Be_racle) 
+[![](CSDN：大模型AI深研录)](https://blog.csdn.net/Be_racle) 
