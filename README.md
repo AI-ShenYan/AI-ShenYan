@@ -2,7 +2,7 @@
   
 # 👋 Hello, World! I'm a R&D Engineer.
 
-**CS Master | Blog Expert (CSDN) | LLM Explorer**
+**CS Master | LLM Explorer | Blog Expert (CSDN)**
 
 *“Exploring the depth of Artificial Intelligence and Large Language Models.”*
 
