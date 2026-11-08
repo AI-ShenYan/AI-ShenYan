@@ -15,7 +15,7 @@
 
 ---
 
-### 🧑‍💻 About Me (关于我)
+### 🧑‍💻 About Me
 
 - 💼 **Background**: 本科（计算机科学与技术），硕士（计算机技术），目前在一家互联网公司做研发，也在 CSDN 写写技术博客。
 - 🔭 **Current Focus**: 关注云计算、大数据、人工智能等方向前沿技术发展，希望能做好底层的技术打通与工程落地。
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack (技术栈)
+### 🛠️ Tech Stack
 
 | 领域 / Domain | 技能栈 / Skills |
 | :--- | :--- |
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats (数据面板)
+### 📊 GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AI-ShenYan/AI-ShenYan/main/profile/stats.svg">
