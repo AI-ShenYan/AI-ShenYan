@@ -50,10 +50,10 @@
 
 ### 📊 GitHub Stats (数据面板)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AI-ShenYan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-ShenYan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
+
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
 
 ---
 
