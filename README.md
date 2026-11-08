@@ -37,10 +37,17 @@
 
 ### 📊 GitHub Stats (数据面板)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AI-ShenYan/AI-ShenYan/main/profile/stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AI-ShenYan/AI-ShenYan/main/profile/stats.svg">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/AI-ShenYan/AI-ShenYan/main/profile/stats.svg">
+</picture>
 
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AI-ShenYan/AI-ShenYan/main/profile/top-langs.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AI-ShenYan/AI-ShenYan/main/profile/top-langs.svg">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/AI-ShenYan/AI-ShenYan/main/profile/top-langs.svg">
+</picture>
 
 ---
 
