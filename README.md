@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 **Background**: 本科（计算机科学与技术），硕士（计算机技术），目前在一家互联网公司做研发，也在 CSDN 写写技术博客。
+- 💼 **Background**: 计算机科学与技术-本科，计算机技术-硕士，目前在一家互联网公司做研发，也在 CSDN 写写技术博客。
 - 🔭 **Current Focus**: 关注云计算、大数据、人工智能等方向前沿技术发展，希望能做好底层的技术打通与工程落地。
 - 🌱 **Learning**: 正在大模型的浪潮里持续学习中，相比于宏大的概念，更关注技术到底能在实际业务里解决什么具体问题。
 - ✍️ **Writing**: 公众号 **「大模型AI深研录」** 是我的技术自留地。记录一些平时的阅读、踩坑实录和对 AI 的深度思考，不定期更新，主打一个真实记录。
@@ -27,7 +27,7 @@
 
 ### 🛠️ Tech Stack
 
-| 领域 / Domain | 技能栈 / Skills |
+| Domain | Skills |
 | :--- | :--- |
 | **Cloud & Infra** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **AI & LLM** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
