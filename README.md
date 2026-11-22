@@ -9,7 +9,7 @@
 [![公众号](https://img.shields.io/badge/WeChat-大模型AI深研录-07C160?style=flat-square&logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/e9rVJ9HXd-V6-ONB4QYVdw)
 [![CSDN](https://img.shields.io/badge/CSDN-博客专家-FC5531?style=flat-square&logo=c&logoColor=white)](https://blog.csdn.net/Be_racle)
 
-`Data · Model · Agent · Repeat.` 🔁
+`Data · Model · Agent · Repeat` 🔁
 
 </div>
 
